@@ -10,7 +10,7 @@ function App() {
 
   const handlePredict = async () => {
     setLoading(true)
-    const res = await fetch("http://localhost:8000/predict", {
+    const res = await fetch("https://analyse-client-ia-production.up.railway.app/predict", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
