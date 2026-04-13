@@ -1,0 +1,92 @@
+﻿id;city;country;region;num_orders;income;avg_order_gap_days
+ALFKI;Berlin;Germany;NULL;12;4273;20,6
+ANATR;México D.F.;Mexico;NULL;10;1402,95;59,1
+ANTON;México D.F.;Mexico;NULL;17;7023,98;26,7
+AROUT;London;UK;NULL;30;13390,65;17,6
+BERGS;Luleå;Sweden;NULL;52;24927,58;11,2
+BLAUS;Mannheim;Germany;NULL;14;3239,8;29,6
+BLONP;Strasbourg;France;NULL;26;18534,08;21,4
+BOLID;Madrid;Spain;NULL;6;4232,85;106
+BONAP;Marseille;France;NULL;44;21963,25;13,2
+BOTTM;Tsawassen;Canada;BC;35;20801,6;14,4
+BSBEV;London;UK;NULL;22;6089,9;28,4
+CACTU;Buenos Aires;Argentina;NULL;11;1814,8;36,4
+CENTC;México D.F.;Mexico;NULL;2;100,8;0
+CHOPS;Bern;Switzerland;NULL;22;12348,88;31
+COMMI;Sao Paulo;Brazil;SP;10;3810,75;67
+CONSH;London;UK;NULL;7;1719,1;58,8
+DRACD;Aachen;Germany;NULL;10;3763,21;58,2
+DUMON;Nantes;France;NULL;9;1615,9;64,3
+EASTC;London;UK;NULL;21;14761,04;25,9
+ERNSH;Graz;Austria;NULL;102;104874,98;6,5
+FAMIA;Sao Paulo;Brazil;SP;19;4107,55;19,9
+FISSA;Madrid;Spain;NULL;0;NULL;NULL
+FOLIG;Lille;France;NULL;16;11666,9;23,2
+FOLKO;Bräcke;Sweden;NULL;45;29567,56;14,6
+FRANK;München;Germany;NULL;48;26656,56;13,2
+FRANR;Nantes;France;NULL;6;3172,16;37,6
+FRANS;Torino;Italy;NULL;10;1545,7;51,4
+FURIB;Lisboa;Portugal;NULL;20;6427,42;27,4
+GALED;Barcelona;Spain;NULL;8;836,7;66
+GODOS;Sevilla;Spain;NULL;26;11446,36;23,5
+GOURL;Campinas;Brazil;SP;19;8414,14;25,3
+GREAL;Eugene;USA;OR;22;18507,45;17,1
+GROSR;Caracas;Venezuela;DF;4;1488,7;168,7
+HANAR;Rio de Janeiro;Brazil;RJ;32;32841,37;21,2
+HILAA;San Cristóbal;Venezuela;Táchira;45;22768,76;14,8
+HUNGC;Elgin;USA;OR;9;3063,2;34,5
+HUNGO;Cork;Ireland;Co. Cork;55;49979,91;11,1
+ISLAT;Cowes;UK;Isle of Wight;23;6146,3;23,9
+KOENE;Brandenburg;Germany;NULL;39;30908,38;14,6
+LACOR;Versailles;France;NULL;11;1992,05;5,4
+LAMAI;Toulouse;France;NULL;31;9328,2;17,7
+LAUGB;Vancouver;Canada;BC;8;522,5;39
+LAZYK;Walla Walla;USA;WA;2;357;62
+LEHMS;Frankfurt a.M.;Germany;NULL;39;19261,41;16,6
+LETSS;San Francisco;USA;CA;10;3076,47;25,8
+LILAS;Barquisimeto;Venezuela;Lara;34;16076,6;19
+LINOD;I. de Margarita;Venezuela;Nueva Esparta;35;16476,57;13,8
+LONEP;Portland;USA;OR;14;4258,6;44,1
+MAGAA;Bergamo;Italy;NULL;21;7176,22;29,3
+MAISD;Bruxelles;Belgium;NULL;17;9736,08;20,9
+MEREP;Montréal;Canada;Québec;32;28872,19;12,2
+MORGK;Leipzig;Germany;NULL;11;5042,2;58
+NORTS;London;UK;NULL;6;649;74
+OCEAN;Buenos Aires;Argentina;NULL;11;3460,2;44,5
+OLDWO;Anchorage;USA;AK;24;15177,46;25,4
+OTTIK;Köln;Germany;NULL;29;12496,2;22,6
+PARIS;Paris;France;NULL;0;NULL;NULL
+PERIC;México D.F.;Mexico;NULL;14;4242,2;44,5
+PICCO;Salzburg;Austria;NULL;23;23128,86;24,1
+PRINI;Lisboa;Portugal;NULL;10;5044,94;59,1
+QUEDE;Rio de Janeiro;Brazil;RJ;24;6664,81;27
+QUEEN;Sao Paulo;Brazil;SP;40;25717,5;13,2
+QUICK;Cunewalde;Germany;NULL;86;110277,3;7,3
+RANCH;Buenos Aires;Argentina;NULL;12;2844,1;38,2
+RATTC;Albuquerque;USA;NM;71;51097,8;9,3
+REGGC;Reggio Emilia;Italy;NULL;22;7048,24;29,3
+RICAR;Rio de Janeiro;Brazil;RJ;27;12450,8;23,7
+RICSU;Genève;Switzerland;NULL;30;19343,78;22,9
+ROMEY;Madrid;Spain;NULL;14;1467,29;46,4
+SANTG;Stavern;Norway;NULL;16;5735,15;31,9
+SAVEA;Boise;USA;ID;116;104361,95;5
+SEVES;London;UK;NULL;26;16215,33;17,6
+SIMOB;Kobenhavn;Denmark;NULL;15;16817,1;39,6
+SPECD;Paris;France;NULL;6;2423,35;32,2
+SPLIR;Lander;USA;WY;20;11441,63;31,6
+SUPRD;Charleroi;Belgium;NULL;39;24088,78;17,1
+THEBI;Portland;USA;OR;7;3361;93
+THECR;Butte;USA;MT;8;1947,24;34,6
+TOMSP;Münster;Germany;NULL;14;4778,14;48,2
+TORTU;México D.F.;Mexico;NULL;29;10812,15;22,6
+TRADH;Sao Paulo;Brazil;SP;13;6850,66;42,4
+TRAIH;Kirkland;USA;WA;9;1571,2;25,4
+VAFFE;Århus;Denmark;NULL;31;15843,92;16,3
+VICTE;Lyon;France;NULL;25;9182,43;23,5
+VINET;Reims;France;NULL;10;1480;55,1
+WANDK;Stuttgart;Germany;NULL;26;9588,43;23,6
+WARTH;Oulu;Finland;NULL;37;15648,7;17,4
+WELLI;Resende;Brazil;SP;19;6068,2;33,4
+WHITC;Seattle;USA;WA;40;27363,61;16,4
+WILMK;Helsinki;Finland;NULL;17;3161,35;15,7
+WOLZA;Warszawa;Poland;NULL;16;3531,95;33,6
